@@ -1,2 +1,2 @@
-# C-Projects
-Learning C# and practicing new projects
+# C#-Projects
+Learning C# and practicing GUI implementation using C#
